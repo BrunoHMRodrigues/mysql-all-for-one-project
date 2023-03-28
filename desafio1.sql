@@ -1,1 +1,1 @@
-SELECT coluna_names FROM products;
+SELECT product_name FROM products;
